@@ -1,0 +1,11 @@
+var ALIASES = {};
+ALIASES["instantiate"] = {};
+ALIASES["libc"] = {};
+ALIASES["memory_units"] = {};
+ALIASES["num_bigint"] = {};
+ALIASES["num_integer"] = {};
+ALIASES["num_rational"] = {};
+ALIASES["num_traits"] = {};
+ALIASES["parity_wasm"] = {};
+ALIASES["wasmi"] = {};
+ALIASES["wasmi_validation"] = {};
